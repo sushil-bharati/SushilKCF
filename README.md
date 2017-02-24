@@ -32,8 +32,9 @@ S. P. Bharati, S. Nandi, Y. Wu, Y. Sui and G. Wang, "Fast and Robust Object Trac
 
 ## How to start? (I personally use Ubuntu 14.04)
 1. Open terminal
-2. cmake CMakeLists.txt
-3. ./KCF
+2. extract every contents of all.zip to the current working folder
+3. cmake CMakeLists.txt
+4. ./KCF
 
 ## How to modify and test in other datasets?
 1. open src (directory) 
