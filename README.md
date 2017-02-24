@@ -7,8 +7,8 @@ Affiliations: University of Kansas, Computer Vision Group, Information and Telec
 Kernelized Correlation framework based salient object tracking with adaptive detection for real-time application in UAVs/Drones or other aerial systems. Light weight, tested in Nvidia Jetson Tegra-K1 kit.  
 
 ## Dependencies:
-OpenCV 2.4 and higher
-Cmake
+1. OpenCV 2.4 and higher
+2. Cmake
 
 If you are using any part or whole code, please cite:
 ## Citations
@@ -28,7 +28,7 @@ OR
 S. P. Bharati, S. Nandi, Y. Wu, Y. Sui and G. Wang, "Fast and Robust Object Tracking with Adaptive Detection," 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI), San Jose, CA, 2016, pp. 706-713.
 
 
-## How to start (I personally use Ubuntu 14.04)?
+## How to start? (I personally use Ubuntu 14.04)
 1. Open terminal
 2. cmake CMakeLists.txt
 3. ./KCF
