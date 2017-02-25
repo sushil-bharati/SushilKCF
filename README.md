@@ -32,9 +32,9 @@ S. P. Bharati, S. Nandi, Y. Wu, Y. Sui and G. Wang, "Fast and Robust Object Trac
 
 ## How to start? (I personally use Ubuntu 16.04.2 LTS)
 1. Open terminal
-2. extract every contents of all.zip to the current working folder
-3. cmake CMakeLists.txt
-4. ./KCF
+2. extract every contents of all.zip to the current working directory (the directory where you downloaded all the files to)
+3. type cmake CMakeLists.txt in the terminal to build dependencies
+4. type ./KCF to run the tracker
 
 ## How to modify and test in other datasets?
 1. open src (directory) 
