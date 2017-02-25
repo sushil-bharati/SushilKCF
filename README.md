@@ -30,7 +30,7 @@ OR
 S. P. Bharati, S. Nandi, Y. Wu, Y. Sui and G. Wang, "Fast and Robust Object Tracking with Adaptive Detection," 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI), San Jose, CA, 2016, pp. 706-713.
 
 
-## How to start? (I personally use Ubuntu 14.04)
+## How to start? (I personally use Ubuntu 16.04.2 LTS)
 1. Open terminal
 2. extract every contents of all.zip to the current working folder
 3. cmake CMakeLists.txt
